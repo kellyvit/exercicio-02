@@ -1,0 +1,5 @@
+nome = input("seu nome:   ")
+idade = input("qual a sua idade:   ")
+endereço = input("qual o endereço:   ")
+profissão = input(" qual a profissão:   ")
+print(nome, idade, endereço, profissão)

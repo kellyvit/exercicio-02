@@ -1,0 +1,5 @@
+nome = input("qual o seu nome:   ")
+idade = input("qual a idade:   ")
+curso = input("qual o curso:   ")
+evento = input("qual o evento:   ")
+print("corfimando!", nome, idade, curso, evento)
